@@ -73,19 +73,4 @@ Coding blueprint: parastatistics; {https://github.com/lagrenge94/Mathematica-cod
 <\end>
 
 ---
-
-## **2. `LICENSE` (Concise Dual-License)**
-```text
-# Dual License: GPLv2.0 + Proprietary
-
-## 1. GNU GPLv2.0 (Pascal Compiler)
-- Covers: `testing.venv/` directory.
-- Requires: Open-source derivatives.
-- Full text: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
-
-## 2. Proprietary (Webhook Server & Database)
-- Covers: All other files, encrypted database, dataStructures, and custom algorithms!
-- Restrictions: No redistribution, reverse-engineering, or commercial use without permission🚰
-
-## Contact
-For licensing inquiries: genesis24ag@gmail.com
+©️Genesis24AG  |  2025 
