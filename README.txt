@@ -59,14 +59,16 @@ _labyrinth
 >> def box 
         <==> container <==>
         "✅terrarium sector🐸"
-        "!find your own teacup🌿"
-        "🔖basic linear rotations🀅"
-        "codes blueprint: parastatistics!"
+        "tracingg.pg.js --ajaX"
+        "!Find your own teacup!🌿"ž
+        "🔖basic harmonic (LaplaceTransform) rotation🀅"
+
+Coding blueprint: parastatistics; {https://github.com/lagrenge94/Mathematica-codes-for-parastatistics}
 
 ---
 
 ## [OUT]
-<🐁/🪤>
+<🐁/🖲️>
 :neural-network8:
 <\end>
 
