@@ -63,7 +63,8 @@ _labyrinth
         "!Find your own teacup!🌿"ž
         "🔖basic harmonic (LaplaceTransform) rotation🀅"
 
-Coding blueprint: parastatistics; {https://github.com/lagrenge94/Mathematica-codes-for-parastatistics}
+Coding blueprint: parastatistics; 
+{https://github.com/lagrenge94/Mathematica-codes-for-parastatistics}
 
 ---
 
